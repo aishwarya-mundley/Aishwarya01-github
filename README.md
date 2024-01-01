@@ -14,8 +14,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 ### 👋 Hello!! I am Aishwarya Mundley
-- ⚡ Computer science undergrad!
-- 🔭 I’m currently working on improving my problem solving skills, DSA and Algorithms.
-- 🌱 I’m currently learning Android Development, Flutter Dev and Frontend web technologies.
-- 💬 Ask me about content writing.
-- 📫 I am open for collaborating in hackathons and coding competitions.
+- ⚡ Software Engineer at Mastercard.
+- 🔭 I’m currently working on backend technologies involving core Java.
+- 🌱 I’m also working on React framework for frontend.
+- 📫 You can reach out to me via linkedin.
