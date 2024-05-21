@@ -18,3 +18,4 @@
 - 🔭 I’m currently working on backend technologies involving core Java.
 - 🌱 I’m also working on React framework for frontend.
 - 📫 You can reach out to me via linkedin.
+- ✨ I love to explore Machine learning algorithms.
